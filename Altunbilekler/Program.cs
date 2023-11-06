@@ -154,7 +154,6 @@ namespace Altunbilekler
 
                 System.Diagnostics.Process.Start(folderPath);
                 Console.Clear();
-                //clearMemory();
 
             }
             catch (Exception ex)
